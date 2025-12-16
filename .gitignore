@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Uploads directory (local testing only, use persistent storage in production)
+uploads/*
+!uploads/.gitkeep

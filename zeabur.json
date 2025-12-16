@@ -1,0 +1,12 @@
+{
+    "build": {
+        "command": "npm run build"
+    },
+    "start": {
+        "command": "npm start"
+    },
+    "env": {
+        "NODE_ENV": "production",
+        "UPLOAD_DIR": "/app/uploads"
+    }
+}
